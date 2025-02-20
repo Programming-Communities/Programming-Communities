@@ -2,10 +2,12 @@
 
 <h3 align="center">All Course Free of Cost By Programming Communities</h3>
 
+<img align="right" alt="Programming Communities" width="868" height="500" src="https://github.com/user-attachments/assets/fc66202d-16f7-479e-8c4c-786e4c5aaebf">
+
 <!-- Replace the image with a GIF -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programming-communities&label=Profile%20views&color=0e75b6&style=flat" alt="programming-communities" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programming-communities&label=Profile%20views&color=0e75b6&style=flat" alt="programming-communities" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programming-communities" alt="programming-communities" /></a> </p>
 
