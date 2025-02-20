@@ -3,7 +3,7 @@
 <h3 align="center">All Course Free of Cost By Programming Communities</h3>
 
 <!-- Replace the image with a GIF -->
-![Canvas Animation](https://i.imgur.com/your-gif-link.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=programming-communities&label=Profile%20views&color=0e75b6&style=flat" alt="programming-communities" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programming-communities&label=Profile%20views&color=0e75b6&style=flat" alt="programming-communities" /> </p>
 
