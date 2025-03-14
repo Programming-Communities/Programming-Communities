@@ -21,7 +21,7 @@ Programming Communities ek free source hai jahan aap alag-alag skills seekh sakt
 📌 Chinese Government Scholarship | CSC Scholarship 🎓  
 
 Agar aap ke paas complete link show na ho, to ye link check kar lein:  
-https://www.linkedin.com/pulse/ek-pegham-jo-kisi-ki-life-zindagi-badal-sakta-hai-aamir--cvb8f  
+https://www.linkedin.com/pulse/programming-communities-aamir--7uzye
 
 📌 **Discord Education Server**  
 https://discord.gg/snXbg5cae8  
