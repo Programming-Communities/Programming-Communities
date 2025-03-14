@@ -298,4 +298,3 @@ https://whatsapp.com/channel/0029Vb3WOl0BfxnxCOXdIz1O
 
 ---
 
-**Jah Jah emoji nahi hai, wah wah add kar do bas!** 😄
