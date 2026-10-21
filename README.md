@@ -5,7 +5,6 @@
 
 <div align="center">
 
-<!-- Typing SVG (Width badhai hai taake text cut na ho) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Programming+Communities;Founded+by+Malik+Aamir+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
@@ -33,16 +32,16 @@
 
 ---
 
-<!-- ═══════════════ NEOFETCH-STYLE TERMINAL (FULL WIDTH) ═══════════════ -->
+<!-- ═══════════════ FULL WIDTH TERMINAL & AVATAR ═══════════════ -->
 
-<table width="100%">
+<table width="100%" style="width: 100%; border: none;">
 <tr>
-<!-- Avatar side: 35% width -->
-<td width="35%" align="center" valign="top">
+<!-- Avatar side: Chhota kar diya taake terminal ko zyada jagah mile (25%) -->
+<td width="25%" align="center" valign="top">
 
 <br>
 
-<img src="https://github.com/Programming-Communities.png" width="220" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Malik Aamir" />
+<img src="https://github.com/Programming-Communities.png" width="180" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Malik Aamir" />
 
 <br><br>
 
@@ -58,8 +57,8 @@
 <br><br>
 
 </td>
-<!-- Terminal side: 65% width -->
-<td width="65%" valign="top">
+<!-- Terminal side: Badi kar di taake right space cover ho (75%) -->
+<td width="75%" valign="top">
 
 ```ansi
 ┌─[ malik-aamir@programming-communities ]─[ ~ ]
@@ -72,7 +71,7 @@
     ██║  ██║██║  ██║██║ ╚═╝ ██║██║██║  ██║
     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
 
-  ─────────────────────────────────────────
+  ─────────────────────────────────────────────────
 
   USER       ➜  Malik Aamir
   ROLE       ➜  Founder @ Programming Communities
@@ -83,7 +82,7 @@
   EDITOR     ➜  VS Code • Cursor • Neovim
   KERNEL     ➜  AI-Augmented Developer
 
-  ─────────────────────────────────────────
+  ─────────────────────────────────────────────────
 
   LANGUAGES  ➜  Python • JavaScript • TypeScript
                 Java • C# • Go • Bash
@@ -98,10 +97,10 @@
 
   DATABASES  ➜  PostgreSQL • MongoDB • Redis • MySQL
 
-  ─────────────────────────────────────────
+  ─────────────────────────────────────────────────
 
   CONTACT    ➜  WhatsApp : +92 300 658 7777
                 Email    : admin@communities.pk
                 GitHub   : /Programming-Communities
 
-  ─────────────────────────────────────────
+  ─────────────────────────────────────────────────
