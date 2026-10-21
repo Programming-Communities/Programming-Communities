@@ -51,13 +51,6 @@
 ┌─[ malik-aamir@programming-communities ]─[ ~ ]
 └──╼ $ neofetch
 
-  ███╗   ███╗ █████╗ ██╗     ██╗██╗  ██╗
-  ████╗ ████║██╔══██╗██║     ██║██║ ██╔╝
-  ██╔████╔██║███████║██║     ██║█████╔╝ 
-  ██║╚██╔╝██║██╔══██║██║     ██║██╔═██╗ 
-  ██║ ╚═╝ ██║██║  ██║███████╗██║██║  ██╗
-  ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
-
      █████╗  █████╗ ███╗   ███╗██╗██████╗ 
     ██╔══██╗██╔══██╗████╗ ████║██║██╔══██╗
     ███████║███████║██╔████╔██║██║██████╔╝
@@ -99,4 +92,44 @@
 
   ───────────────────────────────────────────────── 
   </td> </tr> </table> </div>
+  🎓 Live Classes @ Programming Communities
+Free of cost for everyone — Open Source Education Server 🚀
+
+<div align="center">
+🟢 ACTIVE NOW
+</div><details open> <summary><b>🐍 Modern AI Python — <code>LIVE</code> — Minahil Nawaz</b> &nbsp; <img src="https://img.shields.io/badge/01:15--02:15_AM-00D9FF?style=flat-square" /></summary>
+👩‍🏫 Instructor	Minahil Nawaz
+⏰ Time	01:15 AM – 02:15 AM
+📅 Days	Saturday & Sunday OFF
+🔗 Join	discord.gg/GuTYUPh7Dp
+</details><details open> <summary><b>🐍 Python Collaboration — <code>LIVE</code> — Muhammad Uzair & Minahil Nawaz</b> &nbsp; <img src="https://img.shields.io/badge/09:00--10:00_PM-00D9FF?style=flat-square" /></summary>
+👨‍🏫 Instructors	Muhammad Uzair & Minahil Nawaz
+⏰ Time	09:00 PM – 10:00 PM
+📅 Days	Monday, Tuesday, Friday, Saturday
+🔗 Join	discord.gg/T2nkvNHErU
+</details>
+<div align="center">
+🟡 OTHER BATCHES (Currently Paused / Upcoming)
+https://img.shields.io/badge/%F0%9F%93%9A_View_All_Classes-00D9FF?style=for-the-badge
+
+</div>
+<div align="center">
+🚀 Want to join or teach?
+<a href="https://discord.com/servers/programming-communities-1317258064105308261"> <img src="https://img.shields.io/badge/Join_Main_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a><a href="./JOIN.md"> <img src="https://img.shields.io/badge/🎓_How_to_Join-2ECC71?style=for-the-badge" /> </a><a href="https://wa.me/923006587777"> <img src="https://img.shields.io/badge/Contact_Malik_Aamir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a></div>
+📊 GitHub Analytics
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Programming-Communities&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Communities&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Programming-Communities&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" /></div>
+<div align="center">
+🤝 Let's Connect with Malik Aamir
+Platform	Link
+💬 WhatsApp	+92 300 658 7777
+📧 Email	admin@communities.pk
+🐙 GitHub	@Programming-Communities
+💬 Discord	Join Server
+
+https://img.shields.io/badge/%F0%9F%93%9E_Full_Contact_Page-E74C3C?style=for-the-badge
+
+</div>
+<div align="center">
+
   
