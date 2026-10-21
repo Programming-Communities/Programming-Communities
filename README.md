@@ -30,14 +30,13 @@
 
 </div>
 
----
+<br>
 
-<!-- ═══════════════ FULL WIDTH TERMINAL & AVATAR ═══════════════ -->
+<!-- ═══════════════ BORDERLESS LAYOUT (No Boxes) ═══════════════ -->
 
-<table width="100%" style="width: 100%; border: none;">
-<tr>
-<!-- Avatar side: Chhota kar diya taake terminal ko zyada jagah mile (25%) -->
-<td width="25%" align="center" valign="top">
+<table width="100%" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="25%" align="center" valign="top" style="border: none;">
 
 <br>
 
@@ -54,11 +53,8 @@
 
 <a href="https://wa.me/923006587777"><img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 
-<br><br>
-
 </td>
-<!-- Terminal side: Badi kar di taake right space cover ho (75%) -->
-<td width="75%" valign="top">
+<td width="75%" valign="top" style="border: none;">
 
 ```ansi
 ┌─[ malik-aamir@programming-communities ]─[ ~ ]
