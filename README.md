@@ -102,7 +102,7 @@
 
   </td> </tr> </table> </div>
 
-  <div align="center">
+<div align="center">
 🎓 Live Classes @ Programming Communities
 Free of cost for everyone — Open Source Education Server 🚀
 
@@ -149,3 +149,5 @@ Free of cost for everyone — Open Source Education Server 🚀
 
 </div>
 <div align="center">
+⭐ If you find value in my work, consider starring my repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&fontSize=20&fontColor=ffffff" /></div> ```
