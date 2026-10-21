@@ -1,11 +1,13 @@
-# 🎓 Programming Communities — Live Classes
-
 <div align="center">
+
+# 🎓 Programming Communities — Live Classes
 
 **Free of cost for everyone** — Open Source Education Server 🚀
 
 **Founder:** Malik Aamir
 
+<!-- ═══ TOP BACK BUTTONS ═══ -->
+[![← Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-00D9FF?style=for-the-badge)](./README.md)
 [![Join Discord](https://img.shields.io/badge/Join_Main_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/servers/programming-communities-1317258064105308261)
 [![WhatsApp](https://img.shields.io/badge/Contact_Malik_Aamir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923006587777)
 
@@ -292,6 +294,21 @@
 | 📧 **Email** | [admin@communities.pk](mailto:admin@communities.pk) |
 | 🐙 **GitHub** | [@Programming-Communities](https://github.com/Programming-Communities) |
 | 💬 **Discord** | [Join Server](https://discord.com/servers/programming-communities-1317258064105308261) |
+
+---
+
+<!-- ═══ BOTTOM BACK BUTTONS ═══ -->
+<div align="center">
+
+### 🚀 Explore More Pages
+
+[![← Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-00D9FF?style=for-the-badge)](./README.md)
+[![About Malik Aamir](https://img.shields.io/badge/👨‍💻_About-9B59B6?style=for-the-badge)](./ABOUT.md)
+[![Projects](https://img.shields.io/badge/🚀_Projects-E67E22?style=for-the-badge)](./PROJECTS.md)
+[![Join Us](https://img.shields.io/badge/🎓_Join_Us-2ECC71?style=for-the-badge)](./JOIN.md)
+[![Contact](https://img.shields.io/badge/📞_Contact-E74C3C?style=for-the-badge)](./CONTACT.md)
+
+</div>
 
 ---
 
