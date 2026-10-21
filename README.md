@@ -13,20 +13,28 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge" />
 </p>
 
+<!-- ═══ MAIN NAVIGATION BUTTONS — HAR EK KA APNA PAGE ═══ -->
 <p align="center">
-  <a href="./CLASSES.md"><img src="https://img.shields.io/badge/📚_View_All_Classes-00D9FF?style=for-the-badge" /></a>
-  <a href="https://discord.com/servers/programming-communities-1317258064105308261"><img src="https://img.shields.io/badge/💬_Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="./CLASSES.md"><img src="https://img.shields.io/badge/📚_Classes-00D9FF?style=for-the-badge" /></a>
+  <a href="./ABOUT.md"><img src="https://img.shields.io/badge/👨‍💻_About-9B59B6?style=for-the-badge" /></a>
+  <a href="./PROJECTS.md"><img src="https://img.shields.io/badge/🚀_Projects-E67E22?style=for-the-badge" /></a>
+  <a href="./JOIN.md"><img src="https://img.shields.io/badge/🎓_Join_Us-2ECC71?style=for-the-badge" /></a>
+  <a href="./CONTACT.md"><img src="https://img.shields.io/badge/📞_Contact-E74C3C?style=for-the-badge" /></a>
 </p>
 
+<!-- ═══ SOCIAL BUTTONS ═══ -->
 <p>
   <a href="https://wa.me/923006587777"><img src="https://img.shields.io/badge/WhatsApp-%2B92%20300%20658%207777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:admin@communities.pk"><img src="https://img.shields.io/badge/Email-admin%40communities.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Programming-Communities"><img src="https://img.shields.io/badge/GitHub-Programming--Communities-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.com/servers/programming-communities-1317258064105308261"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
+
+<!-- ═══════════════ NEOFETCH-STYLE TERMINAL ═══════════════ -->
 
 <table>
 <tr>
