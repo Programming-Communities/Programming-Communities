@@ -5,7 +5,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Programming+Communities;Founded+by+Malik+Aamir+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Typing SVG (Width badhai hai taake text cut na ho) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Programming+Communities;Founded+by+Malik+Aamir+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Founder-Malik%20Aamir-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -13,7 +14,6 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge" />
 </p>
 
-<!-- ═══ MAIN NAVIGATION BUTTONS — HAR EK KA APNA PAGE ═══ -->
 <p align="center">
   <a href="./CLASSES.md"><img src="https://img.shields.io/badge/📚_Classes-00D9FF?style=for-the-badge" /></a>
   <a href="./ABOUT.md"><img src="https://img.shields.io/badge/👨‍💻_About-9B59B6?style=for-the-badge" /></a>
@@ -22,7 +22,6 @@
   <a href="./CONTACT.md"><img src="https://img.shields.io/badge/📞_Contact-E74C3C?style=for-the-badge" /></a>
 </p>
 
-<!-- ═══ SOCIAL BUTTONS ═══ -->
 <p>
   <a href="https://wa.me/923006587777"><img src="https://img.shields.io/badge/WhatsApp-%2B92%20300%20658%207777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:admin@communities.pk"><img src="https://img.shields.io/badge/Email-admin%40communities.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -34,11 +33,14 @@
 
 ---
 
-<!-- ═══════════════ NEOFETCH-STYLE TERMINAL ═══════════════ -->
+<!-- ═══════════════ NEOFETCH-STYLE TERMINAL (FULL WIDTH) ═══════════════ -->
 
-<table>
+<table width="100%">
 <tr>
+<!-- Avatar side: 35% width -->
 <td width="35%" align="center" valign="top">
+
+<br>
 
 <img src="https://github.com/Programming-Communities.png" width="220" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Malik Aamir" />
 
@@ -53,7 +55,10 @@
 
 <a href="https://wa.me/923006587777"><img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 
+<br><br>
+
 </td>
+<!-- Terminal side: 65% width -->
 <td width="65%" valign="top">
 
 ```ansi
