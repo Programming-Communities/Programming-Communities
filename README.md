@@ -1,18 +1,24 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROGRAMMING COMMUNITIES                     -->
-<!--                    Founder: Aamir                              -->
+<!--                  PROGRAMMING COMMUNITIES                       -->
+<!--                  Founder: Malik Aamir                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Programming+Communities;Building+the+Future+of+Devs+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Programming+Communities;Founded+by+Malik+Aamir+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Founder-Aamir-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Founder-Malik%20Aamir-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-01411C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge" />
+</p>
+
+<!-- Quick Links -->
+<p align="center">
+  <a href="./CLASSES.md"><img src="https://img.shields.io/badge/📚_View_All_Classes-00D9FF?style=for-the-badge" /></a>
+  <a href="https://discord.com/servers/programming-communities-1317258064105308261"><img src="https://img.shields.io/badge/💬_Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <!-- Social Links -->
@@ -32,11 +38,11 @@
 <tr>
 <td width="35%" align="center" valign="top">
 
-<img src="https://github.com/Programming-Communities.png" width="220" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Aamir" />
+<img src="https://github.com/Programming-Communities.png" width="220" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Malik Aamir" />
 
 <br><br>
 
-### **Aamir**
+### **Malik Aamir**
 **Founder & Lead Engineer**
 
 <sub>AI • Full-Stack • Cloud • Automation</sub>
@@ -49,19 +55,26 @@
 <td width="65%" valign="top">
 
 ```ansi
-┌─[ aamir@programming-communities ]─[ ~ ]
+┌─[ malik-aamir@programming-communities ]─[ ~ ]
 └──╼ $ neofetch
 
-   █████╗  █████╗ ███╗   ███╗██╗██████╗ 
-  ██╔══██╗██╔══██╗████╗ ████║██║██╔══██╗
-  ███████║███████║██╔████╔██║██║██████╔╝
-  ██╔══██║██╔══██║██║╚██╔╝██║██║██╔══██╗
-  ██║  ██║██║  ██║██║ ╚═╝ ██║██║██║  ██║
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
+  ███╗   ███╗ █████╗ ██╗     ██╗██╗  ██╗
+  ████╗ ████║██╔══██╗██║     ██║██║ ██╔╝
+  ██╔████╔██║███████║██║     ██║█████╔╝ 
+  ██║╚██╔╝██║██╔══██║██║     ██║██╔═██╗ 
+  ██║ ╚═╝ ██║██║  ██║███████╗██║██║  ██╗
+  ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
+
+     █████╗  █████╗ ███╗   ███╗██╗██████╗ 
+    ██╔══██╗██╔══██╗████╗ ████║██║██╔══██╗
+    ███████║███████║██╔████╔██║██║██████╔╝
+    ██╔══██║██╔══██║██║╚██╔╝██║██║██╔══██╗
+    ██║  ██║██║  ██║██║ ╚═╝ ██║██║██║  ██║
+    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
 
   ─────────────────────────────────────────
 
-  USER       ➜  Aamir
+  USER       ➜  Malik Aamir
   ROLE       ➜  Founder @ Programming Communities
   HOST       ➜  Full-Stack / AI / Cloud Engineer
   UPTIME     ➜  Always Learning • Always Building
