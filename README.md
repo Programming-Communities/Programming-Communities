@@ -30,35 +30,33 @@
 
 </div>
 
-<br>
+---
 
-<!-- ═══════════════ BORDERLESS LAYOUT (No Boxes) ═══════════════ -->
+<!-- ═══════════════ PERFECTLY CENTERED LAYOUT (No Table Limits) ═══════════════ -->
 
-<table width="100%" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td width="25%" align="center" valign="top" style="border: none;">
-
-<br>
-
-<img src="https://github.com/Programming-Communities.png" width="180" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Malik Aamir" />
-
-<br><br>
-
-### **Malik Aamir**
-**Founder & Lead Engineer**
-
-<sub>AI • Full-Stack • Cloud • Automation</sub>
-
-<br>
-
-<a href="https://wa.me/923006587777"><img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-
-</td>
-<td width="75%" valign="top" style="border: none;">
-
+<div align="center">
+  <table style="border: none; border-collapse: collapse; width: 100%; max-width: 1000px; margin: 0 auto;">
+    <tr style="border: none;">
+      <td width="30%" align="center" valign="middle" style="border: none; padding: 10px;">
+        <img src="https://github.com/Programming-Communities.png" width="180" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Malik Aamir" />
+        <br><br>
+        <h3 style="margin: 0;">Malik Aamir</h3>
+        <p style="margin: 5px 0;"><b>Founder & Lead Engineer</b></p>
+        <p style="margin: 5px 0; font-size: 14px; color: #8b949e;">AI • Full-Stack • Cloud • Automation</p>
+        <br>
+        <a href="https://wa.me/923006587777"><img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+      </td>
+      <td width="70%" align="left" valign="top" style="border: none; padding: 10px;">
 ```ansi
 ┌─[ malik-aamir@programming-communities ]─[ ~ ]
 └──╼ $ neofetch
+
+  ███╗   ███╗ █████╗ ██╗     ██╗██╗  ██╗
+  ████╗ ████║██╔══██╗██║     ██║██║ ██╔╝
+  ██╔████╔██║███████║██║     ██║█████╔╝ 
+  ██║╚██╔╝██║██╔══██║██║     ██║██╔═██╗ 
+  ██║ ╚═╝ ██║██║  ██║███████╗██║██║  ██╗
+  ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 
      █████╗  █████╗ ███╗   ███╗██╗██████╗ 
     ██╔══██╗██╔══██╗████╗ ████║██║██╔══██╗
@@ -99,4 +97,6 @@
                 Email    : admin@communities.pk
                 GitHub   : /Programming-Communities
 
-  ─────────────────────────────────────────────────
+  ───────────────────────────────────────────────── 
+  </td> </tr> </table> </div>
+  
